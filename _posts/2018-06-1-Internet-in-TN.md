@@ -1,5 +1,5 @@
 ---
-title:  "Stellar Social Media Banner Pack"
+title:  "Internet download speeds in Tamil Nadu and Kerala"
 metadate: "hide"
 categories: [ Maps, Tamil Nadu, Kerala, Internet, Dataviz]
 image: "/assets/images/fixedlinenet.png"
